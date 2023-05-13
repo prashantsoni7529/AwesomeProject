@@ -1,0 +1,27 @@
+# Mac OS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React Native
+/android/
+/ios/Pods/
+/ios/Podfile.lock
+/ios/build/
+/ios/*.xcworkspace
+/ios/*.xcuserdata/
+/ios/*.pbxproj
+
+# IDEs
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
+*.pot
+*.pyc
+*.swp
+*.swo
